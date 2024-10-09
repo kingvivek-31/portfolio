@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { FaInstagram, FaLinkedin, FaGithub } from "react-icons/fa6";
 const overview = () => {

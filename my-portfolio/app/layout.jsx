@@ -1,3 +1,4 @@
+"use client";
 import "./globals.css";
 import Overview from "./components/Overview";
 import Skills from "./components/Skills";
